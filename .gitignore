@@ -1,0 +1,5 @@
+__pycache__/
+*.py[cod]
+__marimo__/session/
+.DS_Store
+
